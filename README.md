@@ -29,8 +29,7 @@
 ---
 
 ### 🚀 Tech Stack I Love
-
-```txt
+---
 🧑‍🎨 Frontend:  React · Next.js · Tailwind CSS · Zustand · Shadcn UI · TypeScript · Remix · Framer Motion · GSAP
 🖍️ 2D Engines:  Fabric.js · Konva · Native Canvas API · SVG Manipulation · Paper.js
 🧱 3D Engines & Workflows:  React Three Fiber · Three.js · WebGL · Blender (Python scripting) · GLTF/GLB Pipeline · Draco Compression · Model Decimation
@@ -41,4 +40,4 @@
   GitHub Actions · CI/CD Pipelines · Nginx · Docker (basic) · Let's Encrypt SSL
 🧪 Testing & QA:  Jest · Playwright · Cypress · Postman · Swagger/OpenAPI
 📦 Tools & Extras:  Blender Python · Git · GitHub CLI · Postman · Figma · Vercel · Netlify · Coolify · GoDaddy DNS · Custom Domains
-```
+---
