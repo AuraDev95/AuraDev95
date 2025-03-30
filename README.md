@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Pavadip Aujla</h1>
+<h1 align="center">👋 Hey there, I'm KHades95</h1>
 <h3 align="center">Creative Developer · 2D & 3D Specialist · Problem Solver</h3>
 
 <p align="center">
@@ -31,32 +31,14 @@
 ### 🚀 Tech Stack I Love
 
 ```txt
-🧑‍🎨 Frontend:
-  React · Next.js · Tailwind CSS · Zustand · Shadcn UI · TypeScript · Remix · Framer Motion · GSAP
-
-🖍️ 2D Engines:
-  Fabric.js · Konva · Native Canvas API · SVG Manipulation · Paper.js
-
-🧱 3D Engines & Workflows:
-  React Three Fiber · Three.js · WebGL · Blender (Python scripting) · GLTF/GLB Pipeline · Draco Compression · Model Decimation
-
-🧠 AI + Automation:
-  KaeDim API · MRCNN · OpenAI · DeepSeek · Meshy API · Midjourney (concepts) · Hugging Face Pipelines · AI Agents for UI
-
-🧰 Backend & API:
-  Java · Spring Boot · Express.js · Node.js · Prisma · REST · GraphQL · WebSockets · JWT · OAuth2
-
-🗃️ Database & Caching:
-  PostgreSQL · MySQL · MongoDB · Redis (Valkey) · Supabase · Firebase Realtime DB
-
-🚀 DevOps & Infra:
-  AWS (EC2, S3, Route53, SES, ElastiCache) · Azure (App Services, Blob Storage, DNS)  
+🧑‍🎨 Frontend:  React · Next.js · Tailwind CSS · Zustand · Shadcn UI · TypeScript · Remix · Framer Motion · GSAP
+🖍️ 2D Engines:  Fabric.js · Konva · Native Canvas API · SVG Manipulation · Paper.js
+🧱 3D Engines & Workflows:  React Three Fiber · Three.js · WebGL · Blender (Python scripting) · GLTF/GLB Pipeline · Draco Compression · Model Decimation
+🧠 AI + Automation:  KaeDim API · MRCNN · OpenAI · DeepSeek · Meshy API · Midjourney (concepts) · Hugging Face Pipelines · AI Agents for UI
+🧰 Backend & API:  Java · Spring Boot · Express.js · Node.js · Prisma · REST · GraphQL · WebSockets · JWT · OAuth2
+🗃️ Database & Caching:  PostgreSQL · MySQL · MongoDB · Redis (Valkey) · Supabase · Firebase Realtime DB
+🚀 DevOps & Infra:  AWS (EC2, S3, Route53, SES, ElastiCache) · Azure (App Services, Blob Storage, DNS)
   GitHub Actions · CI/CD Pipelines · Nginx · Docker (basic) · Let's Encrypt SSL
-
-🧪 Testing & QA:
-  Jest · Playwright · Cypress · Postman · Swagger/OpenAPI
-
-📦 Tools & Extras:
-  Blender Python · Git · GitHub CLI · Postman · Figma · Vercel · Netlify · Coolify · GoDaddy DNS · Custom Domains
-
+🧪 Testing & QA:  Jest · Playwright · Cypress · Postman · Swagger/OpenAPI
+📦 Tools & Extras:  Blender Python · Git · GitHub CLI · Postman · Figma · Vercel · Netlify · Coolify · GoDaddy DNS · Custom Domains
 ```
