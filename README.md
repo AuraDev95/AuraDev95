@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm KHades95</h1>
+<h1 align="center">👋 Hey there, I'm AuraDev95</h1>
 <h3 align="center">Creative Developer · 2D & 3D Specialist · Problem Solver</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-%5E18-blue?style=flat&logo=react" />
